@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kvoos\\.nuget\\packages\\": {},
+    "C:\\Users\\jaspe_5yv5s9w\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Server\\Server.csproj",
-      "packagesPath": "C:\\Users\\kvoos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Server\\obj\\",
+      "projectPath": "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Server\\Server.csproj",
+      "packagesPath": "C:\\Users\\jaspe_5yv5s9w\\.nuget\\packages\\",
+      "outputPath": "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kvoos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaspe_5yv5s9w\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
