@@ -23,6 +23,9 @@ namespace ServerApplication
         public MainWindow()
         {
             InitializeComponent();
+            Server server = new Server(); 
+
+            
         }
     }
 }
