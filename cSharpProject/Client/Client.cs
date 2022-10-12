@@ -8,5 +8,6 @@ namespace Client
 {
     internal class Client
     {
+
     }
 }

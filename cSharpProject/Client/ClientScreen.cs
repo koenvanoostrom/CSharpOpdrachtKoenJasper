@@ -6,5 +6,10 @@ namespace Client
         {
             InitializeComponent();
         }
+
+        private void ClientScreen_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
