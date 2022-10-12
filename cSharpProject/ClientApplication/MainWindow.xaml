@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBox x:Name="txtInfo" HorizontalAlignment="Left" Margin="75,67,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="445" Height="254"/>
+        <TextBox x:Name="txtMessage" HorizontalAlignment="Left" Margin="75,326,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="390" Height="19"/>
+        <Button x:Name="btnSend" Content="Button" HorizontalAlignment="Left" Margin="480,325,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstIpConnections" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="525,67,160,150"/>
+        <Button x:Name="btnSend_Copy" Content="Button" HorizontalAlignment="Left" Margin="480,325,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSend_Copy1" Content="Button" HorizontalAlignment="Left" Margin="600,289,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
