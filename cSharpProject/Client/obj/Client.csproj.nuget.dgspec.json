@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj": {}
+    "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj": {
+    "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\jaspe_5yv5s9w\\.nuget\\packages\\",
-        "outputPath": "C:\\Avans\\Technische Informatica 2022-2023 Jaar 2\\Periode 1\\Proftaak\\Git\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\obj\\",
+        "projectPath": "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\kvoos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kvoos\\Documents\\GitKraken\\CSharpOpdrachtKoenJasper\\cSharpProject\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jaspe_5yv5s9w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kvoos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
